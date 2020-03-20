@@ -11,18 +11,18 @@ timothymayor24@gmail.com
 timothymayor
 
 ### Tracks:
-Backend
-Frontend
-Mobile
-Design
+Backend, 
+Frontend, 
+Mobile, 
+Design, 
 
 ### Courses Registered:
-Nodejs
-Go
-C#
-Python
-PHP
-JavaScript
-Java
+Nodejs, 
+Go, 
+C#, 
+Python, 
+PHP, 
+JavaScript, 
+Java, 
 UI/UX
 
