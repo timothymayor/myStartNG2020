@@ -1,8 +1,6 @@
 ## The Task
 
-# Description: 
-
-(P.S.:- This task should be done only after completing the GIT task!)
+### Description: 
 
 1. Create a program called dectobin which means Decimal to Binary, 
 
@@ -15,4 +13,6 @@
 5. Push your code to GitHub,
 
 6. Submit the link via HNG board.
+
+(P.S.:- This task should be done only after completing the GIT task!)
 
