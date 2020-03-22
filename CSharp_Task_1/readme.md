@@ -12,8 +12,8 @@
 
 ### Solution:
 I created an album (i.e. folder) on https://imgbb.com/, and uploaded all 3 screenshots. However, these are the links to the 3 individual screenshots - 
-Multiplication: https://ibb.co/gzVC5x2
-Subtraction: https://ibb.co/tY81JKg
-Division: https://ibb.co/jkW8q0j 
+1. Multiplication: https://ibb.co/gzVC5x2
+2. Subtraction: https://ibb.co/tY81JKg
+3. Division: https://ibb.co/jkW8q0j 
 
 Complete Screenshot Folder:- https://ibb.co/album/mvjuYv
