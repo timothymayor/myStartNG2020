@@ -7,6 +7,7 @@ Check the link - https://drive.google.com/open?id=1LlC2RAqJAB-J8wSckEABfCxEgKSuU
 Tip: read through before you start the instruction for the task can be found in the same image you are to reproduce.
 
 
+
 ## JavaScript Task 
 #### Description:
 1. Store your name in a variable. 
@@ -25,8 +26,6 @@ Hint: Check the JavaScript Introduction note for ideas.
 1. https://www.w3schools.com/js/js_loop_for.asp
 2. https://www.youtube.com/watch?v=s9wW2PpJsmQ&t=6s
 3. https://www.youtube.com/watch?v=Kn06785pkJg
-
-JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour [2019]
-https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax
+4. https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax
 
 
