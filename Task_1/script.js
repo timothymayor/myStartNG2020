@@ -3,7 +3,7 @@ var myCourses = ["nodejs", "php", "csharp", "go", "java", "flutter", "javascript
 console.log(myName);
 console.log(myCourses);
 
-console.log("Displaying all Even numbers from 1 - 200 (inclusive), for number of courses");
+console.log("Displaying all Even numbers from 1 - 200 (inclusive), for number of Courses");
 for (myCourses = 1; myCourses <= 200; myCourses++) {
   if (myCourses % 2 === 0){
     console.log(myCourses);
