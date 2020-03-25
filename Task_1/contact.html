@@ -7,7 +7,7 @@
 </head>
 <body>
     
-    <form action="processform" method="POST">
+    <form action="processform.php" method="POST">
         <p>
 			<label for="first_name">First Name</label><br />
 			<input type="text" name="first_name" placeholder="Enter Your First Name" />
@@ -28,19 +28,19 @@
                 <option>Select Department</option>
                 <option>HR</option>
                 <option>Marketing</option>
-                <option>Board </option>
-                <option>Kitchen</option>
+                <option>Finance </option>
+                <option>Operations</option>
               </select>
         </p>
 
         <p>
 			<label for="gender">Gender</label><br />
-			<input type="radio" name="gender" /> Female 
             <input type="radio" name="gender" /> Male
-		</p>
+            <input type="radio" name="gender" /> Female 
+        </p>
 
         <p>
-			<label for="email">Your Message</label><br />
+			<label for="email">Message</label><br />
 			<textarea name="message"></textarea>
         </p>
         
