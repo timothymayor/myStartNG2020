@@ -1,30 +1,17 @@
-<?php 
+<?php
 
-// print_r($_POST)
+    // print_r($_POST)
 
-if(isset($_POST['first_name'],  
-    ['last_name']  
-    ['email'] 
-    ['department'] 
-    ['gender'] 
-    ['message']
-)) { 
-    $dataOne = $_POST['first_name'];
-    $dataTwo = $_POST['last_name'];
-    $dataThree = $_POST['email'];
-    $dataFour = $_POST['department'];
-    $dataFive = $_POST['gender'];
-    $dataSix = $_POST['message'];
+    if(isset($_POST['submit'])) { 
 
-    $fp = fopen('contact.txt', 'a');
-    fwrite($fp, $dataOne);
-    fwrite($fp, $dataTwo);
-    fwrite($fp, $dataThree);
-    fwrite($fp, $dataFour);
-    fwrite($fp, $dataFive);
-    fwrite($fp, $dataSix);
+    $data=$_POST['first_name'] . ' , ' . $_POST['last_name']. ' , ' . $_POST['email']. ' , ' . $_POST['department']. ' , '  . $_POST['message']. "\n";
+    
+    $filename = $_POST['first_name'].$_POST['last_name'].".txt";
 
-    fclose($fp);
-}
+    $file = fopen($filename, 'a');
+    fwrite($file, $data);
+    fclose($file);
+
+    }
 
 ?>
