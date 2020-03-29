@@ -4,11 +4,9 @@
 Create a Simple Form and Submit to a File
 
 ## Description:
-Subsequent to the class we held on March 21st, 2020, you are required to;
-
 1. Display a form which prompts you to enter a message when you visit localhost:8080;
 
-e.g:  Please enter a message below:       
+e.g:  Enter a message below:       
 
        Message: an input box is here where user submits their message
        Submit: a submit button is below.

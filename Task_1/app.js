@@ -1,13 +1,12 @@
 var http = require('http');
 var fs = require('fs');
-var htmlform = `<form action="/message"    method="POST">
+var form = `<form action="/message"    method="POST">
     <input type="text" name="Message" placeholder="Message" id=""><br>
     <button class="btn btn-success">Submit</button>
     </form>`
 http.createServer(function (req, res) {
   if(req.method == "POST"){ 
- //make sure the value of your form method is set to "POST"
- let message = "";
+  let message = "";
 req.on('data', (data)=>{
       message += data ;
    console.log(message);
@@ -19,10 +18,10 @@ req.on('data', (data)=>{
       });
      });
     res.writeHead(200, {'Content-Type': 'text/html'});
-    res.write(htmlform);
+    res.write(form);
     res.end();
 } else {
 res.writeHead(200, {'Content-Type': 'text/html'});
-res.write(htmlform);
+res.write(form);
 res.end()
-}}).listen(3000);
+}}).listen(8080);
