@@ -14,10 +14,10 @@ Visit: https://codelabs.developers.google.com/codelabs/build-your-first-android-
 and follow the steps provided to create your first app.
 
 Your app should display your basic information which includes: 
-a. Your full name
-b. Slack Username
-c. Start.NG email address
-d. Tracks you belong to
+1. Your full name
+2. Slack Username
+3. Start.NG email address
+4. Tracks you belong to
 
 Create a new repo on GitHub, your repo name should be the name of your app (you can use any name)
 
