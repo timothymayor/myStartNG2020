@@ -3,7 +3,7 @@
 ### Challenge: 
 Build your first Android App In Java
 
-### Description
+### Description:
 
 This resource was provided by Google.
 
