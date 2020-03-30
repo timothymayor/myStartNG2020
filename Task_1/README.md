@@ -1,16 +1,28 @@
-# timothymayor
+## Task 1
 
-A new Flutter application.
+### Challenge: 
+Build your first Android App In Java
 
-## Getting Started
+### Description
 
-This project is a starting point for a Flutter application.
+This resource was provided by Google.
 
-A few resources to get you started if this is your first Flutter project:
+Please read carefully
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Make sure you have done the Git Task
+Visit: https://codelabs.developers.google.com/codelabs/build-your-first-android-app/index.html?index=..%2F..index#0 
+and follow the steps provided to create your first app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Your app should display your basic information which includes: 
+a. Your full name
+b. Slack Username
+c. Start.NG email address
+d. Tracks you belong to
+
+Create a new repo on GitHub, your repo name should be the name of your app (you can use any name)
+
+Push your app code to GitHub, you must not upload using webview (there will be point deduction if you do)
+
+Submit the URL of the repo
+
+NB: Your app will be built and tested, do not push broken app to the repo.
