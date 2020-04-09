@@ -1,7 +1,6 @@
 ## Task 1
 
-### Challenge: 
-Build your first Android App In FLUTTER
+### Build your first Android App In FLUTTER
 
 ### Description:
 This resource was provided by Google.
